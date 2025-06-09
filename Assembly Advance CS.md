@@ -1,4 +1,4 @@
-# Ultra-Advanced Assembly Cheatsheet (NASM/YASM, x86/x64, System-Level)
+# Advanced Assembly Cheatsheet (NASM/YASM, x86/x64, System-Level)
 
 This cheatsheet is designed for reverse engineers, OS developers, hypervisor researchers, and anyone diving deep into the lowest layers of x86/x64 CPU behavior.
 
